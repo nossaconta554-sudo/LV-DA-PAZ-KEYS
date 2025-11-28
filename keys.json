@@ -7,6 +7,13 @@
       "first_use": null,
       "perm": false,
       "device_limit": 1
+    },
+    "spark": {
+      "active": true,
+      "owner": "gratis",
+      "first_use": null,
+      "perm": false,
+      "duration": "1d"
     }
   }
 }
