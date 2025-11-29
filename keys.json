@@ -1,28 +1,20 @@
 {
   "keys": {
-    "XABLAU-3s-ZQLRL3Q1": {
-      "duration": "3s",
-      "active": true,
-      "owner": "testee",
-      "first_use": 1764381896214,
-      "device_limit": 1,
-      "perm": false
-    },
     "oi": {
-      "duration": "2s",
+      "perm": false,
       "active": true,
       "owner": "sh",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "2s"
     },
     "lvdapaz": {
-      "duration": "7d",
+      "perm": false,
       "active": true,
       "owner": "d",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
+      "duration": "7d"
     },
     "spark": {
       "active": false,
@@ -32,20 +24,20 @@
       "duration": "1d"
     },
     "testi": {
-      "duration": "3s",
+      "device_limit": 1,
       "active": true,
       "owner": "TESTE SPARK",
       "first_use": 1764381814133,
       "perm": false,
-      "device_limit": 1
+      "duration": "3s"
     },
     "KEY-2SECONDS-A9ZNCYQVFO": {
-      "perm": false,
+      "duration": "2s",
       "active": true,
       "owner": "hs",
       "first_use": null,
-      "device_limit": 1,
-      "duration": "2s"
+      "perm": false,
+      "device_limit": 1
     }
   }
 }
