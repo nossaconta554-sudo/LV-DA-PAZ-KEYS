@@ -1,35 +1,28 @@
 {
   "keys": {
     "lvdapaz": {
-      "duration": "7d",
+      "device_limit": 1,
       "active": true,
       "owner": "d",
       "first_use": null,
       "perm": false,
-      "device_limit": 1
-    },
-    "spark": {
-      "active": false,
-      "owner": "gratis",
-      "first_use": 1764380848368,
-      "perm": false,
-      "duration": "1d"
+      "duration": "7d"
     },
     "testi": {
-      "duration": "3s",
+      "perm": false,
       "active": true,
       "owner": "TESTE SPARK",
       "first_use": 1764381814133,
       "device_limit": 1,
-      "perm": false
+      "duration": "3s"
     },
     "KEY-2SECONDS-A9ZNCYQVFO": {
-      "device_limit": 1,
+      "duration": "2s",
       "active": true,
       "owner": "hs",
       "first_use": null,
-      "perm": false,
-      "duration": "2s"
+      "device_limit": 1,
+      "perm": false
     }
   }
 }
