@@ -1,20 +1,12 @@
 {
   "keys": {
     "lvdapaz": {
-      "duration": "7d",
+      "perm": false,
       "active": true,
       "owner": "d",
       "first_use": null,
       "device_limit": 1,
-      "perm": false
-    },
-    "KEY-2SECONDS-A9ZNCYQVFO": {
-      "perm": false,
-      "active": true,
-      "owner": "hs",
-      "first_use": null,
-      "device_limit": 1,
-      "duration": "2s"
+      "duration": "7d"
     }
   }
 }
