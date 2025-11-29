@@ -1,20 +1,12 @@
 {
   "keys": {
-    "KEY-3SECONDS-EQT2C3L9ZO": {
-      "duration": "3s",
-      "active": true,
-      "owner": "desenvolvedor",
-      "first_use": null,
-      "device_limit": 1,
-      "perm": false
-    },
     "lvdapaz": {
-      "duration": "7d",
+      "device_limit": 1,
       "active": true,
       "owner": "d",
       "first_use": null,
       "perm": false,
-      "device_limit": 1
+      "duration": "7d"
     },
     "spark": {
       "active": true,
@@ -23,21 +15,21 @@
       "perm": false,
       "duration": "1d"
     },
-    "KEY-2SECONDS-A9ZNCYQVFO": {
+    "oi": {
       "device_limit": 1,
       "active": true,
-      "owner": "hs",
+      "owner": "sh",
       "first_use": null,
       "perm": false,
       "duration": "2s"
     },
-    "oi": {
+    "KEY-2SECONDS-A9ZNCYQVFO": {
       "duration": "2s",
-      "perm": false,
       "active": true,
+      "owner": "hs",
       "first_use": null,
-      "owner": "sh",
-      "device_limit": 1
+      "device_limit": 1,
+      "perm": false
     }
   }
 }
