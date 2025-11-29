@@ -1,17 +1,17 @@
 {
   "keys": {
     "lvdapaz": {
-      "duration": "7d",
+      "device_limit": 1,
       "active": true,
       "owner": "d",
       "first_use": null,
       "perm": false,
-      "device_limit": 1
+      "duration": "7d"
     },
     "spark": {
       "active": true,
       "owner": "gratis",
-      "first_use": null,
+      "first_use": 1764380848368,
       "perm": false,
       "duration": "1d"
     }
