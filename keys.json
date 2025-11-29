@@ -1,12 +1,12 @@
 {
   "keys": {
     "lvdapaz": {
-      "device_limit": 1,
+      "duration": "7d",
       "active": true,
       "owner": "d",
       "first_use": null,
-      "perm": false,
-      "duration": "7d"
+      "device_limit": 1,
+      "perm": false
     },
     "spark": {
       "active": true,
@@ -14,6 +14,14 @@
       "first_use": 1764380848368,
       "perm": false,
       "duration": "1d"
+    },
+    "KEY-3SECONDS-EQT2C3L9ZO": {
+      "duration": "3s",
+      "perm": false,
+      "active": true,
+      "first_use": null,
+      "owner": "desenvolvedor",
+      "device_limit": 1
     }
   }
 }
