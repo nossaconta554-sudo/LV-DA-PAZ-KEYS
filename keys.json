@@ -1,12 +1,12 @@
 {
   "keys": {
     "2k25": {
-      "duration": "12mo",
-      "perm": false,
+      "device_limit": 1,
       "active": true,
-      "first_use": null,
       "owner": "DONO NATSU",
-      "device_limit": 1
+      "first_use": 1764474919376,
+      "perm": false,
+      "duration": "12mo"
     }
   }
 }
